@@ -3,6 +3,6 @@
    "http://www.wapforum.org/DTD/wml_1.1.xml" >
 <wml>
   <card id="main" title="First Card">
-    <p mode="wrap">This is a sample WML page.</p>
+    <p mode="wrap">hello world.</p>
   </card>
 </wml>
